@@ -1,5 +1,0 @@
-ID,name,truckSize,capacity,homeDepotID,homeDepotPosition,fixedLoadTime,serviceTime
-0,cool_truck,1,1500,0,1,10,0
-1,cooler_truck,1,1500,0,1,10,0
-2,coolest_truck,1,2000,0,1,10,0
-3,lame_truck,1,2000,0,1,10,0
