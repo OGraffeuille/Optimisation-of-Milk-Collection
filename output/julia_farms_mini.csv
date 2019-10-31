@@ -1,0 +1,17 @@
+ID,name,x,y,milkPlanned,nextType,nextID,factory
+0,farm_0,228,0,100,farm,2,0
+1,farm_1,912,0,300,farm,7,0
+2,farm_2,0,80,200,farm,3,0
+3,farm_3,114,80,400,factory,0,0
+4,farm_4,570,160,200,farm,8,0
+5,farm_5,798,160,400,farm,0,0
+6,farm_6,342,240,900,factory,0,0
+7,farm_7,684,240,800,factory,0,0
+8,farm_8,570,400,300,farm,6,0
+9,farm_9,912,400,200,farm,1,0
+10,farm_10,114,480,300,farm,14,0
+11,farm_11,228,480,200,farm,10,0
+12,farm_12,342,560,200,factory,0,0
+13,farm_13,684,560,400,farm,12,0
+14,farm_14,0,640,800,factory,0,0
+15,farm_15,798,640,800,farm,13,0

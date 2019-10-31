@@ -1,0 +1,2 @@
+ID,name,x,y,matrixPosition,startTimeWindow,endTimeWindow,fixedServiceTime,serviceTime
+0,factory,456,320,0,240,1320,10,0

@@ -1,0 +1,4 @@
+ID,name,x,y,matrixPosition,startTimeWindow,endTimeWindow,fixedServiceTime,serviceTime
+0,FAC_3,145.21995,-37.92757,0,240,1320,55,0.001
+1,FAC_67,145.772105,-38.1128,1,240,1320,25,0.001
+2,FAC_68,145.138081,-38.038385,2,240,1320,50,0.001
